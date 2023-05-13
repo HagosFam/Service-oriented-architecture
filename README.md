@@ -3,4 +3,4 @@ A demo project for service oriented architecture using Enterprise Service Bus pa
 
 Architecture and expectation
 
-[Lab 6.pdf](https://github.com/HagosFam/Service-oriented-architecture/files/11468747/Lab.6.pdf)
+![image](https://github.com/HagosFam/Service-oriented-architecture/assets/41420437/2d8a4396-1e13-45bf-afa2-cb9aa34fd321)
